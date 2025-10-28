@@ -1,0 +1,17 @@
+{
+  "name": "thoregon.nissaru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thoregon/thoregon.nissaru.git"
+  },
+  "keywords": [],
+  "author": "Bernhard Lukassen <bl@bernhard-lukassen.com> (http://www.bernhard-lukassen.com/)",
+  "license": "MIT",
+  "devDependencies": {}
+}
